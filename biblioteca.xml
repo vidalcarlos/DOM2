@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bibliotecaStyle.xsl"?>
+
+
+<livros>
+    <livro type="java">
+        <codigo>1010</codigo>
+        <titulo>Java 6 e POO</titulo>
+        <capa type="mole"/>
+        <autor>Fernando Coiso</autor>
+        <editora>FCA</editora>
+        <versao type="papel"/>        
+    </livro>
+    <livro type="xml">
+        <codigo>2010</codigo>
+        <titulo>XML &amp; JAVA</titulo>
+        <capa type="virtual"/>
+        <autor>Orly</autor>
+        <editora>Santarem</editora>
+        <versao type="pdf"/>        
+    </livro>
+    <livro type="php">
+        <codigo>3012</codigo>
+        <titulo>Php em 10 dias</titulo>
+        <capa type="dura"/>
+        <autor>Raul Fidel</autor>
+        <editora>IA</editora>
+        <versao type="papel"/>        
+    </livro>
+    <livro type="sql">
+        <codigo>4023</codigo>
+        <titulo>SQL Sem Mestre</titulo>
+        <capa type="mole"/>
+        <autor>Quim Bolas</autor>
+        <editora>IA</editora>
+        <versao type="papel"/>        
+    </livro>
+</livros>
